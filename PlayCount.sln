@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayCount", "PlayCount.csproj", "{EA18E65E-4186-4800-8567-EEADCFD9B912}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Supporting Files", "Supporting Files", "{0FEC1AE5-AFD6-4E18-BC90-CCD603C8ADB6}"
+	ProjectSection(SolutionItems) = preProject
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Plugin|Any CPU = Plugin|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA18E65E-4186-4800-8567-EEADCFD9B912}.Plugin|Any CPU.ActiveCfg = Plugin|Any CPU
+		{EA18E65E-4186-4800-8567-EEADCFD9B912}.Plugin|Any CPU.Build.0 = Plugin|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54066DC0-2CB8-4A77-9C35-9E6669ABE398}
+	EndGlobalSection
+EndGlobal

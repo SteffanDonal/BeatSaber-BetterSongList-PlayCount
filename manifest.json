@@ -1,0 +1,17 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "BetterSongList-PlayCount",
+  "name": "BetterSongList PlayCount Sort",
+  "author": "Ruirize",
+  "version": "1.0.0",
+  "description": "Adds a \"Play Count\" sort for BetterSongList!",
+  "gameVersion": "1.37.4",
+  "dependsOn": {
+    "BSIPA": "^4.3.2",
+    "BetterSongList": "^0.4.1"
+  },
+  "links": {
+    "project-home": "https://github.com/SteffanDonal/BeatSaber-BetterSongList-PlayCount",
+    "project-source": "https://github.com/SteffanDonal/BeatSaber-BetterSongList-PlayCount"
+  }
+}
